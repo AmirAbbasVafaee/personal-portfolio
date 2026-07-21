@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.33746ce2.css",
+    "main.js": "/personal-portfolio/static/js/main.03910be5.js",
+    "static/js/453.676b9ed8.chunk.js": "/personal-portfolio/static/js/453.676b9ed8.chunk.js",
+    "static/media/color-sharp.png": "/personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/personal-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-porsanj-order-1.webp": "/personal-portfolio/static/media/project-porsanj-order-1.6857fe7e70f65634de60.webp",
+    "static/media/banner-bg.png": "/personal-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/personal-portfolio/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/footer-bg.png": "/personal-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/IRANYekanWebRegular.ttf": "/personal-portfolio/static/media/IRANYekanWebRegular.08dd10a3887d8d253b11.ttf",
+    "static/media/IRANYekanWebMedium.ttf": "/personal-portfolio/static/media/IRANYekanWebMedium.7d8f2bf96b1bb941a9fb.ttf",
+    "static/media/IRANYekanWebBold.ttf": "/personal-portfolio/static/media/IRANYekanWebBold.58298bc970c7ebf8fc83.ttf",
+    "static/media/contact_img.webp": "/personal-portfolio/static/media/contact_img.09c9c4e93dd1fa470967.webp",
+    "static/media/contact-img.svg": "/personal-portfolio/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/new5.png": "/personal-portfolio/static/media/new5.ec716caca63c55120741.png",
+    "static/media/new6.png": "/personal-portfolio/static/media/new6.d1871a550e8775c8c48f.png",
+    "static/media/logo.webp": "/personal-portfolio/static/media/logo.c294c726b088a07a1706.webp",
+    "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/personal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/new4.webp": "/personal-portfolio/static/media/new4.c52d4459f9decb1ecb37.webp",
+    "static/media/icons-dribbble.svg": "/personal-portfolio/static/media/icons-dribbble.97256403275bcad47096e363c84b5f3a.svg",
+    "static/media/icons-instagram.svg": "/personal-portfolio/static/media/icons-instagram.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/icons-phone.svg": "/personal-portfolio/static/media/icons-phone.5c85398612ae65f90dbecf87395b9190.svg",
+    "static/media/icons-github1.svg": "/personal-portfolio/static/media/icons-github1.102628b9f80db3e40590595bf6ebba86.svg",
+    "static/media/icons-whatsapp.svg": "/personal-portfolio/static/media/icons-whatsapp.407029115cbac2eef10278b72b426bff.svg",
+    "static/media/ct-img.webp": "/personal-portfolio/static/media/ct-img.c42a962fb88b91e95674.webp",
+    "static/media/icons-telegram.svg": "/personal-portfolio/static/media/icons-telegram.ea88495076fba59b6f1364b592d4a5f9.svg",
+    "index.html": "/personal-portfolio/index.html",
+    "static/media/icons-email.svg": "/personal-portfolio/static/media/icons-email.50bdbf3f939c6fa3087cbc28a60b714e.svg",
+    "main.33746ce2.css.map": "/personal-portfolio/static/css/main.33746ce2.css.map",
+    "main.03910be5.js.map": "/personal-portfolio/static/js/main.03910be5.js.map",
+    "453.676b9ed8.chunk.js.map": "/personal-portfolio/static/js/453.676b9ed8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33746ce2.css",
+    "static/js/main.03910be5.js"
+  ]
+}
