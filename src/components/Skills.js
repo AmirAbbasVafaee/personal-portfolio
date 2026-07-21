@@ -38,19 +38,19 @@ export const Skills = () => {
                         <p>ارائه انواع وب سایتها بر اساس نیاز کسب و کار شما</p>
                         <Carousel responsive={responsive} infinite={true}  className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img draggable="false" src={Web1} alt="Image" />
+                                <img draggable="false" src={Web1} alt="Personal website" />
                                 <h5>سایت شخصی</h5>
                             </div>
                             <div className="item">
-                                <img draggable="false" src={Web2} alt="Image"/>
+                                <img draggable="false" src={Web2} alt="Corporate website"/>
                                 <h5>سایت شرکتی</h5>
                             </div>
                             <div className="item">
-                                <img draggable="false" src={Web1} alt="Image"/>
+                                <img draggable="false" src={Web1} alt="Store website"/>
                                 <h5>سایت فروشگاهی</h5>
                             </div>
                             <div className="item">
-                                <img draggable="false" src={Web3} alt="Image"/>
+                                <img draggable="false" src={Web3} alt="Mobile application"/>
                                 <h5>برنامه موبایل</h5>
                             </div>
                         </Carousel>
@@ -64,7 +64,7 @@ export const Skills = () => {
                 </div>
             </div>
         </div>
-        <img className="background-image-left" src={colorSharp} alt="Image"/>
+        <img className="background-image-left" src={colorSharp} alt="Background"/>
     </section>
   )
 }

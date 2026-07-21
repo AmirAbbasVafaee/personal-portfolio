@@ -1,8 +1,5 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/project-porsanj-order-1.webp";
-import projImg2 from "../assets/img/project-porsanj-order-1.webp";
-import projImg3 from "../assets/img/project-porsanj-order-1.webp";
 import projImg4 from "../assets/img/project-porsanj-order-1.webp";
 import projImg5 from "../assets/img/project-porsanj-order-1.webp";
 import projImg6 from "../assets/img/project-porsanj-order-1.webp";
@@ -101,7 +98,7 @@ export const Projects = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-image-right" src={colorSharp2}></img>
+      <img className="background-image-right" src={colorSharp2} alt="Background"/>
     </section>
   )
 }

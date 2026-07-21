@@ -47,9 +47,9 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-            <a href="https://t.me/peranull" target="_blank"><img src={navSocial1} alt="Telegram"/></a>
-              <a href="https://wa.me/989385390844?text=peranull.ir" target="_blank"><img src={navSocial2} alt="Whatsapp" /></a>
-              <a href="https://www.instagram.com/peranull/" target="_blank"><img src={navSocial3} alt="Instagram" /></a>
+            <a href="https://t.me/peranull" target="_blank" rel="noopener noreferrer"><img src={navSocial1} alt="Telegram"/></a>
+              <a href="https://wa.me/989385390844?text=peranull.ir" target="_blank" rel="noopener noreferrer"><img src={navSocial2} alt="Whatsapp" /></a>
+              <a href="https://www.instagram.com/peranull/" target="_blank" rel="noopener noreferrer"><img src={navSocial3} alt="Instagram" /></a>
             </div>
             <a href="#connect">
             <button className="vvd"><span>درخواست مشاوره</span></button>

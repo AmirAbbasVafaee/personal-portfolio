@@ -22,18 +22,18 @@ export const Footer = () => {
         <div className="contact-section">
           
         <div className="contact-input">
-          <img draggable="false" className="ctimg" src={ctImg}/>
-          <img draggable="false" className="ctimg2" src={imgContact}/>
+          <img draggable="false" className="ctimg" src={ctImg} alt="Contact"/>
+          <img draggable="false" className="ctimg2" src={imgContact} alt="Contact"/>
           <div className="something-new">
           <div className="contact-buttton">
-            <a className="contact-b" href="tel:09385390844"><img className="ftimg" src={ctPhone}></img></a>
-            <a className="contact-b" href="mailto:info@peranull.ir"><img className="ftimg" src={ctEmail}></img></a>
+            <a className="contact-b" href="tel:09385390844"><img className="ftimg" src={ctPhone} alt="Phone"/></a>
+            <a className="contact-b" href="mailto:info@peranull.ir"><img className="ftimg" src={ctEmail} alt="Email"/></a>
           </div>
           {/* this one gets hidden */}
 
           <div className="contact-buttton2">
-            <a className="contact-c" href="https://github.com/AmirAbbasVafaee/" target="_blank" alt><img className="ftimg" src={ctGithub}></img></a>
-            <a className="contact-c" href="https://dribbble.com/peranull" target="_blank"><img className="ftimg" src={ctDribbble}></img></a>
+            <a className="contact-c" href="https://github.com/AmirAbbasVafaee/" target="_blank" rel="noopener noreferrer"><img className="ftimg" src={ctGithub} alt="Github"/></a>
+            <a className="contact-c" href="https://dribbble.com/peranull" target="_blank" rel="noopener noreferrer"><img className="ftimg" src={ctDribbble} alt="Dribbble"/></a>
           </div>
           </div>
           </div>
@@ -51,11 +51,11 @@ export const Footer = () => {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="https://t.me/peranull" target="_blank"><img src={navIcon1} alt="Telegram" /></a>
-              <a href="https://wa.me/989385390844?text=peranull.ir" target="_blank"><img src={navIcon2} alt="Whatsapp" /></a>
-              <a href="https://www.instagram.com/peranull/" target="_blank"><img src={navIcon3} alt="Instagram" /></a>
+              <a href="https://t.me/peranull" target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt="Telegram" /></a>
+              <a href="https://wa.me/989385390844?text=peranull.ir" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="Whatsapp" /></a>
+              <a href="https://www.instagram.com/peranull/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="Instagram" /></a>
             </div>
-            <p>کپی رایت ۲۰۲۲ – تمامی حقوق برای <a href="#"> امیرعباس وفایی </a> محفوظ است.</p>
+            <p>کپی رایت ۲۰۲۲ – تمامی حقوق برای <a href="#connect"> امیرعباس وفایی </a> محفوظ است.</p>
           </Col>
         </Row>
       </Container>
